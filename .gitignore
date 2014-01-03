@@ -1,0 +1,7 @@
+/Release
+/Debug
+/ipch
+/*.opensdf
+/*.sdf
+/foo_pls_writer/Release
+/foo_pls_writer/Debug
